@@ -2,8 +2,8 @@
 This Project helps to detect person's face using the minimal dataset given by the user with the help of Transfer Learning In Convolutional Neural Network (AI)<br><br><br>
 
 
-Face Recognition using Tensor Flow and FaceNet.<br>
-Goal: To generate a model which recognises the faces, with images given as input.
+## Face Recognition using Tensor Flow and FaceNet.<br>
+**Goal:** To generate a model which recognises the faces, with images given as input.
 
 To get face feature embeddings, we used FaceNet model. FaceNet is a one-shot model, that directly learns a mapping from face images to a compact Euclidean space where distances directly correspond to a measure of face similarity. We used embeddings from FaceNet to get features which are further used to predict the class representing face of a particular person.<br><br>
 
